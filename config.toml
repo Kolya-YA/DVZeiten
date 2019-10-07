@@ -1,32 +1,12 @@
 baseURL                  = "https://example.com/"           # Your domain name. Must end with "/"
 languageCode             = "de-De"
 defaultContentLanguage   = "de"
-isMultilingual           = false
+#isMultilingual           = false
 title                    = "DVZeiten"
 theme                    = "tale"
-pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
-pygmentsCodefences       = true
-# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
-    dateform             = "Mon Jan 02, 2006"
-    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "sam.ico"
-    homepage             = "main"                           # What to call the home page link
-    footerText           = "Call me Sam, a theme for Hugo."
+  author = "Gärtner Müller"
 
-# Metadata for Open Graph and Twitter
-    description          = "A new DVZ site."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "DVZeiten"
-
-[[params.mainMenu]]
-    link = "/verben"
-    text = "verben"
-
-[[params.mainMenu]]
-    link = "/about"
-    text = "wer bin ich?"
-
-[imaging]
-    quality = 75
+[Author]
+  name = ".YA"
