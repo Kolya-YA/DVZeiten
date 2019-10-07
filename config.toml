@@ -3,7 +3,7 @@ languageCode             = "de-De"
 defaultContentLanguage   = "de"
 isMultilingual           = false
 title                    = "DVZeiten"
-theme                    = "sam"
+theme                    = "tale"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
@@ -21,21 +21,12 @@ pygmentsCodefences       = true
     title                = "DVZeiten"
 
 [[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
-
-[[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
-
-[[params.mainMenu]]
-    link = "/portfolio"
-    text = "portfolio"
+    link = "/verben"
+    text = "verben"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who am I?"
+    text = "wer bin ich?"
 
 [imaging]
     quality = 75
-    
