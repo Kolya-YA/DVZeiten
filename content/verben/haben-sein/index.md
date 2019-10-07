@@ -1,7 +1,7 @@
 ---
 title: "haben & sein"
 date: 2019-10-07T15:03:41+02:00
-draft: true
+draft: false
 ---
 
 ## Die Verben haben und sein

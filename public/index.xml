@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DVZeiten</title>
-    <link>https://example.com/</link>
+    <link>https://dvzeiten.netlify.com/</link>
     <description>Recent content on DVZeiten</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-De</language>
     <lastBuildDate>Mon, 07 Oct 2019 11:53:45 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dvzeiten.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Info</title>
-      <link>https://example.com/about/</link>
+      <link>https://dvzeiten.netlify.com/about/</link>
       <pubDate>Mon, 07 Oct 2019 11:53:45 +0200</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://dvzeiten.netlify.com/about/</guid>
       <description> Diese Seiten sind von .YA  das Verb. die Verben. der Verb.  </description>
     </item>
     

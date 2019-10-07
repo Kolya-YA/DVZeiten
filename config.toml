@@ -1,4 +1,4 @@
-baseURL                  = "https://example.com/"           # Your domain name. Must end with "/"
+baseURL                  = "https://dvzeiten.netlify.com/"           # Your domain name. Must end with "/"
 languageCode             = "de-De"
 defaultContentLanguage   = "de"
 #isMultilingual           = false
